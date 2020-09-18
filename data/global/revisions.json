@@ -1,0 +1,134 @@
+[
+  {
+    "path": "data/global/botpress.config.json",
+    "revision": "YMF89q7r",
+    "created_on": "2020-09-18T13:16:36.886Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/botpress.config.json",
+    "revision": "hb7FXO_8",
+    "created_on": "2020-09-18T13:16:38.143Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/analytics.json",
+    "revision": "mZjHUX8a",
+    "created_on": "2020-09-18T13:16:38.154Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/basic-skills.json",
+    "revision": "5KKg5a2z",
+    "created_on": "2020-09-18T13:16:38.162Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/builtin.json",
+    "revision": "Uhf2mgFF",
+    "created_on": "2020-09-18T13:16:38.169Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/channel-web.json",
+    "revision": "uCVwDAxB",
+    "created_on": "2020-09-18T13:16:38.176Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/code-editor.json",
+    "revision": "ltFTxB-w",
+    "created_on": "2020-09-18T13:16:38.182Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/examples.json",
+    "revision": "HxOym3j7",
+    "created_on": "2020-09-18T13:16:38.189Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/extensions.json",
+    "revision": "Vsoao8Wk",
+    "created_on": "2020-09-18T13:16:38.195Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/nlu.json",
+    "revision": "Feyu6B7K",
+    "created_on": "2020-09-18T13:16:38.202Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/qna.json",
+    "revision": "ZMwEbqhq",
+    "created_on": "2020-09-18T13:16:38.209Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/config/testing.json",
+    "revision": "8dponwRV",
+    "created_on": "2020-09-18T13:16:38.216Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/botpress.config.json",
+    "revision": "r7iSvMoC",
+    "created_on": "2020-09-18T13:16:49.222Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/actions/call_external_api.js",
+    "revision": "6k1-ImS7",
+    "created_on": "2020-09-18T13:30:31.837Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/after_incoming_middleware/02_set_session_reference.js",
+    "revision": "klo33-Uy",
+    "created_on": "2020-09-18T13:30:31.838Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/after_incoming_middleware/03_switch_language.js",
+    "revision": "_H99olDH",
+    "created_on": "2020-09-18T13:30:31.838Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/after_server_start/expose_private_api.js",
+    "revision": "OSOho3bG",
+    "created_on": "2020-09-18T13:30:31.839Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/after_stage_changed/stage_changed.js",
+    "revision": "9KLUZNCM",
+    "created_on": "2020-09-18T13:30:31.841Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/before_bot_import/import_validations.js",
+    "revision": "VWIj-JW7",
+    "created_on": "2020-09-18T13:30:31.842Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/before_incoming_middleware/06_rasa_nlu.js",
+    "revision": "6nhXsXjh",
+    "created_on": "2020-09-18T13:30:31.842Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/on_stage_request/pipeline_approval.js",
+    "revision": "rMeukyyJ",
+    "created_on": "2020-09-18T13:30:31.844Z",
+    "created_by": "admin"
+  },
+  {
+    "path": "data/global/examples/examples/hooks/on_stage_request/stage_requested.js",
+    "revision": "F4IPtqen",
+    "created_on": "2020-09-18T13:30:31.844Z",
+    "created_by": "admin"
+  }
+]
